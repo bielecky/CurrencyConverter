@@ -84,24 +84,5 @@ cd conversor-de-moedas
 
    ## Contato
 
-   Para qualquer dúvida ou problema, por favor entre em contato pelo e-mail [seu-email@exemplo.com](mailto:seu-email@exemplo.com).
+   Para qualquer dúvida ou problema, por favor entre em contato pelo e-mail [contatotalitabielecky@gmail.com].
    
-
-3. *Substitua as informações:*
-
-   Substitua seu-usuario pelo seu nome de usuário do GitHub e seu-email@exemplo.com pelo seu endereço de e-mail.
-
-4. *Adicione e faça commit do arquivo README.md:*
-
-   bash
-   git add README.md
-   git commit -m "Adiciona README ao projeto"
-   
-
-5. *Envie as mudanças para o GitHub:*
-
-   bash
-   git push origin main
-   
-
-Agora, seu repositório no GitHub terá um README detalhado sobre o projeto de Conversor de Moedas.
